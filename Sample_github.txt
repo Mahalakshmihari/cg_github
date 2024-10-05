@@ -1,0 +1,9 @@
+1.	git status = > give the status/shows the working tree status
+2.	git init => create an empty git repository or reinitialize an existing one
+3.	git add . => 
+4.	git add filename => add particular file into that
+5.	git reset =>
+6.	git add^c
+7.	git branch branchname => create a new branch name
+8.	git checkout nbranch name =>switch to that particular branch
+9.	git commit =>
